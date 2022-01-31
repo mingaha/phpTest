@@ -1,0 +1,13 @@
+{
+    "name": "jordan/testphp",
+    "autoload": {
+        "psr-4": {
+            "Jordan\\Testphp\\": "src/"
+        }
+    },
+    
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+    
+}
