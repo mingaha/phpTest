@@ -1,5 +1,5 @@
 <?php
-//require('src/math.php');
+require('src/math.php');
 use PHPUnit\Framework\TestCase; 
 
 
