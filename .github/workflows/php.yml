@@ -24,6 +24,6 @@ jobs:
       run: composer update
       
     - name: test
-      run: composer exec phpunit /test/mathTest.php
+      run: composer exec phpunit test/mathTest.php
 
    
